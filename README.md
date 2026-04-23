@@ -1,72 +1,65 @@
-<div align="center">
+# Parth Kansal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Parth+Kansal;Software+Engineer+%2B+AI%2FML;Building+at+the+edge+of+software+%26+intelligence.;Student+%E2%86%92+2027+%F0%9F%9A%80" alt="Typing SVG" />
+Software Engineering + AI/ML student from India. Graduating 2027.
 
-<br/>
+I build full-stack products and AI systems. Currently deep in machine learning fundamentals, LLMs, and system design — learning the things that actually matter long term.
 
-<a href="https://linkedin.com/in/kparth23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:parth.kansal823@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/parthkansal823"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
+📬 Open to SWE / AI-ML internships (2025–26) · parth.kansal823@gmail.com · [LinkedIn](https://linkedin.com/in/kparth23)
 
 ---
 
-## 👨‍💻 About Me
+## Projects
 
-Software Engineering student from India — graduating **2027**.
+**[Adaptive IAM + LLM + Blockchain](https://github.com/parthkansal823/adaptive-iam-llm-blockchain)**
+Identity and access management system powered by LLMs and secured with blockchain. Explores the intersection of AI-driven authorization and decentralized trust.
+`Python` `LLM` `Blockchain`
 
-I build full-stack applications and explore AI/ML systems. Already working on projects that combine **LLMs, blockchain, and predictive ML** — not just following tutorials, actually building.
+**[Diabetes Prediction using Soft Computing](https://github.com/parthkansal823/Diabetes-Prediction-using-Soft-Computing)**
+Disease prediction model built using soft computing techniques — fuzzy logic and neural networks applied to medical data.
+`Python` `Jupyter Notebook` `Machine Learning`
 
-- 🤖 Exploring **LLMs, soft computing & ML systems**
-- 🏗️ Building real full-stack products — NEIGHBOURAID, CodeChatter
-- ⚔️ Grinding DSA + system design daily
-- 📬 Open to **SWE / AI-ML internships (2025–26)**
+**[NEIGHBOURAID](https://github.com/parthkansal823/NEIGHBOURAID)**
+Community platform that connects neighbours for local help, resource sharing, and collaboration. Full-stack, production-ready.
+`JavaScript` `Node.js` `React`
 
----
+**[CodeChatter](https://github.com/parthkansal823/CodeChatter)**
+Real-time chat application built for developers — discuss code, share snippets, collaborate live.
+`JavaScript` `WebSockets` `Node.js`
 
-## 🛠️ Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,git,linux,vscode&theme=dark" />
-</p>
+**[Shopper](https://github.com/Nkamra101/shopper)**
+Scheduling and booking web app inspired by Cal.com. Lets users manage availability and create customizable event types.
+`JavaScript`
 
 ---
 
-## 🚀 Projects
+## Tech
 
-| Project | What it does | Tech |
-|---|---|---|
-| 🧠 [Adaptive IAM + LLM + Blockchain](https://github.com/parthkansal823/adaptive-iam-llm-blockchain) | Identity & access management powered by LLMs and secured with blockchain | Python, LLM |
-| 🩺 [Diabetes Prediction](https://github.com/parthkansal823/Diabetes-Prediction-using-Soft-Computing) | Disease prediction using soft computing techniques | Python, Jupyter |
-| 🏘️ [NEIGHBOURAID](https://github.com/parthkansal823/NEIGHBOURAID) | Community platform connecting neighbours for local help | JavaScript, Node.js |
-| 💬 [CodeChatter](https://github.com/parthkansal823/CodeChatter) | Real-time chat app built for developers | JavaScript, WebSockets |
+**Languages** — Python, JavaScript, TypeScript, C++, SQL
 
----
+**AI / ML** — PyTorch, scikit-learn, NumPy, Pandas, Jupyter
 
-## 📖 Currently Learning
+**Web** — React, Node.js, Express, MongoDB, REST APIs
 
-```python
-focus = [
-    "Machine Learning fundamentals — math first, code second",
-    "Large Language Models — how they actually work",
-    "System Design — thinking at scale",
-    "DSA — daily problem solving",
-]
-```
+**Tools** — Git, Linux, Docker, VS Code
 
 ---
 
-<div align="center">
-<sub>275 contributions this year · Still going · Open to internships</sub>
-<br/>
-<sub>parth.kansal823@gmail.com</sub>
-</div>
+## Currently
+
+- Going deep on ML — linear algebra, probability, and implementing from scratch
+- Studying how LLMs work under the hood (transformers, attention, fine-tuning)
+- Daily DSA practice + system design reading
+- Building projects I'd be confident presenting to any engineering team
+
+---
+
+## Background
+
+- 🎓 B.Tech Software Engineering — 2027
+- 📍 India
+- 275 contributions in the last year
+
+---
+
+*If you're a recruiter or engineer and something here looks interesting — reach out.*
+`parth.kansal823@gmail.com`
