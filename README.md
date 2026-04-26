@@ -34,7 +34,7 @@ Identity and access management system powered by LLMs and secured with blockchai
 
 ## Tech
 
-**Languages** — Python, JavaScript, TypeScript, C++, SQL
+**Languages** — Python, JavaScript, C/C++, SQL, Java
 
 **AI / ML** — PyTorch, scikit-learn, NumPy, Pandas, Jupyter
 
