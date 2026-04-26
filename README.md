@@ -29,6 +29,7 @@ Real-time chat application built for developers — discuss code, share snippets
 **[Adaptive IAM + LLM + Blockchain](https://github.com/parthkansal823/adaptive-iam-llm-blockchain)**
 Identity and access management system powered by LLMs and secured with blockchain. Explores the intersection of AI-driven authorization and decentralized trust.
 `Python` `LLM` `Blockchain`
+
 ---
 
 ## Tech
