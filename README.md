@@ -16,6 +16,7 @@ Community platform that connects neighbours for local help, resource sharing, an
 **[Shopper](https://github.com/Nkamra101/shopper)**
 Scheduling and booking web app inspired by Cal.com. Lets users manage availability and create customizable event types.
 `JavaScript`
+
 **[Diabetes Prediction using Soft Computing](https://github.com/parthkansal823/Diabetes-Prediction-using-Soft-Computing)**
 Disease prediction model built using soft computing techniques — fuzzy logic and neural networks applied to medical data.
 `Python` `Jupyter Notebook` `Machine Learning`
@@ -55,7 +56,6 @@ Identity and access management system powered by LLMs and secured with blockchai
 
 - 🎓 B.Tech Software Engineering — 2027
 - 📍 India
-- 275 contributions in the last year
 
 ---
 
