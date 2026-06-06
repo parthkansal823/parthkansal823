@@ -9,15 +9,13 @@ I build full-stack products and AI systems. Currently deep in machine learning f
 ---
 
 ## Projects
-
-**[Shopper](https://github.com/Nkamra101/shopper)**
-Scheduling and booking web app inspired by Cal.com. Lets users manage availability and create customizable event types.
-`JavaScript`
-
 **[NEIGHBOURAID](https://github.com/parthkansal823/NEIGHBOURAID)**
 Community platform that connects neighbours for local help, resource sharing, and collaboration. Full-stack, production-ready.
 `JavaScript` `Node.js` `React`
 
+**[Shopper](https://github.com/Nkamra101/shopper)**
+Scheduling and booking web app inspired by Cal.com. Lets users manage availability and create customizable event types.
+`JavaScript`
 **[Diabetes Prediction using Soft Computing](https://github.com/parthkansal823/Diabetes-Prediction-using-Soft-Computing)**
 Disease prediction model built using soft computing techniques — fuzzy logic and neural networks applied to medical data.
 `Python` `Jupyter Notebook` `Machine Learning`
