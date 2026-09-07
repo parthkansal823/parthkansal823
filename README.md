@@ -1,9 +1,9 @@
 # Parth Kansal
-**Software Engineering + AI/ML** · B.Tech 2027 · 📍 India
+**Software Engineering** · B.E. 2027 · 📍 India
 
 I build full-stack products and AI systems. Currently going deep on ML fundamentals, LLMs, and system design — learning the things that actually matter long term.
 
-📬 Open to **SWE / AI-ML internships (2025–26)** · parth.kansal823@gmail.com · [LinkedIn](https://linkedin.com/in/kparth23)
+📬 Open to **SWE (2026–27)** · parth.kansal823@gmail.com · [LinkedIn](https://linkedin.com/in/kpartha238)
 
 ---
 
