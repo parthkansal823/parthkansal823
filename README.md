@@ -5,7 +5,7 @@ I build full-stack products and AI systems. Currently going deep on ML fundament
 
 📬 Open to **SWE (2026–27)** · parth.kansal823@gmail.com · [LinkedIn](https://linkedin.com/in/kpartha238)
 
-Resume: [AP_PARTH_KANSAL.docs]([https://github.com/parthkansal823/NEIGHBOURAID](https://docs.google.com/document/d/1CNtW00Nn2qMzzU1lpASgOgzwUMuiFd_F/edit?usp=sharing&ouid=102537288796624398044&rtpof=true&sd=true))
+**Resume:** [AP_PARTH_KANSAL.docs](https://docs.google.com/document/d/1CNtW00Nn2qMzzU1lpASgOgzwUMuiFd_F/edit?usp=sharing&ouid=102537288796624398044&rtpof=true&sd=true)
 
 ---
 
