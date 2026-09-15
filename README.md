@@ -1,39 +1,41 @@
 # Parth Kansal
-**Software Engineering** · B.E. 2027 · 📍 India
+**AI/ML Engineer** · Full-Stack Builder · B.E. 2027 · India
 
-I build full-stack products and AI systems. Currently going deep on ML fundamentals, LLMs, and system design — learning the things that actually matter long term.
+I build AI-powered products and end-to-end software experiences with a strong bias toward practical impact, technical depth, and product execution. My work sits at the intersection of machine learning, intelligent systems, and building software users actually want to use.
 
-📬 Open to **SWE (2026–27)** · parth.kansal823@gmail.com · [LinkedIn](https://linkedin.com/in/kpartha238)
-
-**Resume:** [AP_PARTH_KANSAL.docs](https://docs.google.com/document/d/1CNtW00Nn2qMzzU1lpASgOgzwUMuiFd_F/edit?usp=sharing&ouid=102537288796624398044&rtpof=true&sd=true)
+📬 Open to **AI/ML + SWE roles (2026–27)** · [parth.kansal823@gmail.com](mailto:parth.kansal823@gmail.com) · [LinkedIn](https://linkedin.com/in/kpartha238) · [Portfolio](https://parthkansal823.github.io/) · [Resume](https://docs.google.com/document/d/1CNtW00Nn2qMzzU1lpASgOgzwUMuiFd_F/edit?usp=sharing&ouid=102537288796624398044&rtpof=true&sd=true)
 
 ---
 
-## 🛠 Projects
+## 🧠 Featured AI / ML & Product Work
 
-**[NEIGHBOURAID](https://github.com/parthkansal823/NEIGHBOURAID)**
-Community platform connecting neighbours for local help, resource sharing, and collaboration. Full-stack, production-ready.
-`JavaScript` `Node.js` `React`
-
-**[Shopper](https://github.com/Nkamra101/shopper)**
-Scheduling and booking web app inspired by Cal.com — manage availability and create customizable event types.
-`JavaScript`
-
-**[Diabetes Prediction using Soft Computing](https://github.com/parthkansal823/Diabetes-Prediction-using-Soft-Computing)**
-Disease prediction model using fuzzy logic and neural networks applied to medical data.
+**[Diabetes Prediction using Soft Computing](https://github.com/parthkansal823/Diabetes-Prediction-using-Soft-Computing)**  
+Healthcare-focused machine learning project combining fuzzy logic and neural networks to model disease prediction.
 `Python` `Jupyter Notebook` `Machine Learning`
 
-**[CodeChatter](https://github.com/parthkansal823/CodeChatter)**
-Real-time chat app built for developers — discuss code, share snippets, collaborate live.
+**[Adaptive_IAM](https://github.com/parthkansal823/Adaptive_IAM)**  
+AI-driven access management system exploring LLM-based authorization and blockchain-backed trust in a security context.
+`Python` `LLM` `Blockchain`
+
+**[NeighbourAid](https://github.com/parthkansal823/NeighbourAid)**  
+Full-stack community platform connecting neighbors for support, collaboration, and local problem solving.
+`JavaScript` `Node.js` `React`
+
+**[shopper](https://github.com/parthkansal823/shopper)**  
+Scheduling platform inspired by Cal.com with availability logic and configurable event flows.
+`JavaScript`
+
+**[CodeChatter](https://github.com/parthkansal823/CodeChatter)**  
+Real-time developer communication app for chat, snippet sharing, and collaborative coding.
 `JavaScript` `WebSockets` `Node.js`
 
-**[Adaptive IAM + LLM + Blockchain](https://github.com/parthkansal823/adaptive-iam-llm-blockchain)**
-Identity and access management powered by LLMs and secured with blockchain — explores AI-driven authorization meets decentralized trust.
-`Python` `LLM` `Blockchain`
+**[System Log Analyzer & Anomaly Detector](https://github.com/parthkansal823/System-Log-Analyzer-Anomaly-Detector)**  
+Systems-focused project for parsing logs, identifying anomalies, and generating operational insights.
+`C++`
 
 ---
 
-## ⚙️ Tech
+## ⚙️ Tech Stack
 
 | Domain | Stack |
 |---|---|
@@ -44,14 +46,15 @@ Identity and access management powered by LLMs and secured with blockchain — e
 
 ---
 
-## 🔭 Currently
+## 🔬 Focus Areas
 
-- 📐 Going deep on ML — linear algebra, probability, implementing from scratch
-- 🤖 Studying how LLMs work under the hood (transformers, attention, fine-tuning)
-- 💻 Daily DSA + system design
-- 🚀 Building projects I'd be confident showing any engineering team
+- Building ML systems from first principles: linear algebra, probability, optimization, and model design
+- LLM and generative AI workflows: transformers, attention, and practical fine-tuning approaches
+- Full-stack product execution: APIs, interfaces, architecture, and user-facing software delivery
+- Strong fundamentals: DSA, system design, and engineering judgment for real-world product teams
 
 ---
 
-*Recruiter or engineer and something here looks interesting — reach out.*
-`parth.kansal823@gmail.com`
+I’m looking for opportunities with ambitious teams building AI-native products, intelligent systems, and software that creates measurable value.
+
+[parth.kansal823@gmail.com](mailto:parth.kansal823@gmail.com)
