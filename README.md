@@ -1,6 +1,7 @@
 # Hi, I'm Parth Kansal 👋
 
-**AI/ML Engineer** · Full-Stack Builder · B.E. 2027 · India
+**AI/ML Engineer** · Full-Stack Builder · India  
+🎓 B.E. Computer Science (Information Security, IBM) · Chandigarh University · 2027
 
 I build AI-first systems end to end — from data collection and model training to the backend, the dashboard, and the tests that prove it works. Lately that means **ML inside real systems**: a learned query optimizer that steers PostgreSQL, a deception layer that catches web attackers, and a crisis-response network that triages alerts in 8 Indian languages.
 
@@ -18,7 +19,7 @@ I care about measured results: baselines, ablations, confidence intervals, CI on
 ## 🚀 Featured Work
 
 ### 🛡️ [Active Deception Framework for Web Attack Detection](https://github.com/parthkansal823/FinalYearProject-Deception)
-*Final-year research project.* A reverse proxy that, when unsure about a visitor, plants invisible bait in responses — a fake SQL error, an unused JSON field, a hint at a deprecated endpoint. Real users never see it; attackers who act on it identify themselves and are silently moved into a state-consistent decoy copy of the site where everything they do is recorded.
+*Final-year team project at Chandigarh University · research paper in progress.* A reverse proxy that, when unsure about a visitor, plants invisible bait in responses — a fake SQL error, an unused JSON field, a hint at a deprecated endpoint. Real users never see it; attackers who act on it identify themselves and are silently moved into a state-consistent decoy copy of the site where everything they do is recorded.
 - Attack recall **0.889 → 0.943** over the passive baseline across 99 paired seeds (McNemar p ≈ 10⁻⁹⁵), with **0 of 7,920** benign sessions diverted
 - Decoy environment with **0.00% contradictions** over 286 consistency probes; tested against scripted, browser-driven and LLM-agent attackers
 - Append-only hash-chained logging, per-component fail-open, frozen model manifest, **371 tests**
@@ -43,15 +44,27 @@ Real-time community crisis response for India. People report emergencies with te
 
 ---
 
+## 🌐 Full-Stack Products
+
+### 💻 [CodeChatter](https://github.com/parthkansal823/CodeChatter)
+Collaborative coding workspace: shared rooms with live presence and cursors, a Monaco editor with file tree and in-room terminal, runnable starter projects (DSA practice in 15 languages), WebRTC video calls and screen sharing, two-way GitHub sync, and optional Gemini-powered AI help. JWT auth with email OTP plus Google/GitHub OAuth.
+
+`React` `FastAPI` `WebSockets` `WebRTC` `MongoDB` `Gemini`
+
+### 📅 [shopper](https://github.com/parthkansal823/shopper) · [Live demo](https://shopper-ap823.netlify.app)
+Calendly / Cal.com-style scheduling platform. Hosts publish booking pages, invitees pick a slot and verify their email, and the whole lifecycle — confirmations, reminders, reschedules, cancellations — runs itself, with Google Calendar, Gmail API and webhook integrations. 82 tests in CI; deployed on Netlify + Render.
+
+`React` `FastAPI` `MongoDB Atlas` `Google APIs`
+
+---
+
 ## 🧩 More Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Adaptive_IAM](https://github.com/parthkansal823/Adaptive_IAM)** | AI-powered identity and access management exploring LLM-based authorization and blockchain-assisted trust | `Python` `LLM` `Blockchain` |
-| **[Diabetes Prediction using Soft Computing](https://github.com/parthkansal823/Diabetes-Prediction-using-Soft-Computing)** | Disease prediction from structured medical data using fuzzy logic and neural networks | `Python` `Jupyter` `ML` |
-| **[CodeChatter](https://github.com/parthkansal823/CodeChatter)** | Real-time developer chat with snippet sharing and collaborative coding | `JavaScript` `Node.js` `WebSockets` |
-| **[shopper](https://github.com/parthkansal823/shopper)** | Cal.com-style scheduling and booking with dynamic availability and event configuration | `JavaScript` |
-| **[System Log Analyzer & Anomaly Detector](https://github.com/parthkansal823/System-Log-Analyzer-Anomaly-Detector)** | Parses system logs, flags anomalies, and surfaces operational insights | `C++` |
+| **[Adaptive_IAM](https://github.com/parthkansal823/Adaptive_IAM)** | Adaptive identity and access management with risk-based dynamic MFA, LLM-based authorization and blockchain-assisted trust (joint major project) | `Next.js` `FastAPI` `PostgreSQL` `Redis` `Blockchain` |
+| **[System Log Analyzer & Anomaly Detector](https://github.com/parthkansal823/System-Log-Analyzer-Anomaly-Detector)** | Real-time log monitor with three anomaly detectors (sliding window, keyword frequency, source burst), file-watch mode and generated reports | `C++17` `OOP` |
+| **[Diabetes Prediction](https://github.com/parthkansal823/Diabetes-Prediction-using-Soft-Computing)** | Pima Indians dataset: EDA, missing-value handling, SMOTE for class imbalance and a grid-search-tuned Random Forest (~77% accuracy) | `Python` `scikit-learn` `Jupyter` |
 
 ---
 
@@ -60,11 +73,11 @@ Real-time community crisis response for India. People report emergencies with te
 | Domain | Stack |
 |---|---|
 | **Languages** | Python · JavaScript · C/C++ · SQL · Java |
-| **AI / ML** | PyTorch · scikit-learn · LightGBM · NumPy · Pandas · Jupyter · LLM APIs |
-| **Backend** | FastAPI · Node.js · Express · REST · WebSockets |
-| **Frontend** | React · Vite · Tailwind CSS · Recharts · Leaflet |
-| **Data** | PostgreSQL · MongoDB |
-| **Tooling** | Git · GitHub Actions · Docker · Linux · pytest · Vitest |
+| **AI / ML** | PyTorch · scikit-learn · LightGBM · NumPy · Pandas · Jupyter · Gemini API |
+| **Backend** | FastAPI · Node.js · Express · REST · WebSockets · WebRTC |
+| **Frontend** | React · Next.js · Vite · Tailwind CSS · Recharts · Leaflet |
+| **Data** | PostgreSQL · MongoDB · Redis |
+| **Tooling & Cloud** | Git · GitHub Actions · Docker · Linux · pytest · Vitest · Netlify · Render |
 
 ---
 
