@@ -10,7 +10,7 @@ I care about measured results: baselines, ablations, confidence intervals, CI on
 [![Email](https://img.shields.io/badge/Email-parth.kansal823%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:parth.kansal823@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kpartha238-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/kpartha238)
 [![Portfolio](https://img.shields.io/badge/Portfolio-parthkansal823.github.io-111111?logo=githubpages&logoColor=white)](https://parthkansal823.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-View-4285F4?logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1CNtW00Nn2qMzzU1lpASgOgzwUMuiFd_F/edit?usp=sharing&ouid=102537288796624398044&rtpof=true&sd=true)
+[![AP-Resume](https://img.shields.io/badge/Resume-View-4285F4?logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1CNtW00Nn2qMzzU1lpASgOgzwUMuiFd_F/edit?usp=sharing&ouid=102537288796624398044&rtpof=true&sd=true)
 
 📬 Open to **AI/ML + SWE roles (2026–27)**
 
